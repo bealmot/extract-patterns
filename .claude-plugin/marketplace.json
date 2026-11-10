@@ -1,0 +1,38 @@
+{
+  "name": "bealmot-plugins",
+  "owner": {
+    "name": "bealmot"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by bealmot",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "extract-patterns",
+      "source": "./",
+      "description": "Extract transferable meta-level and project-level patterns from repos, videos, and articles.",
+      "version": "1.0.0",
+      "author": {
+        "name": "bealmot",
+        "url": "https://github.com/bealmot"
+      },
+      "homepage": "https://github.com/bealmot/extract-patterns",
+      "repository": "https://github.com/bealmot/extract-patterns",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "patterns",
+        "architecture",
+        "research",
+        "knowledge-management"
+      ],
+      "category": "productivity",
+      "tags": [
+        "analysis",
+        "architecture",
+        "research"
+      ]
+    }
+  ]
+}
